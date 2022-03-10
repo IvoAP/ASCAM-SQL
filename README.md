@@ -5,4 +5,5 @@ Q1: Write a SQL query to calculate the average square meter price of properties 
 ).
 
 Q2 A: Count the number of properties that had a increased price in 2016 and the average increased in percentage of price/sqm (square meter) of those properties.
+
 Q2 B: Count the number of properties that had a decreased price in 2016 and the average decreased in percentage of price/sqm (square meter) of those properties.
